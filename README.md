@@ -51,9 +51,9 @@
  ```
  - Third method, download the compiled versions from the releases tab on the right side.
 
-# Discord Server
+# Discord Szerver
  - Join the discord server for more updates and to check the current process.
- - [Discord Server Invite](https://discord.gg/r96jeQgaFX)
+ - [Discord Szerver Invite (HUN)](https://discord.gg/r96jeQgaFX)
 
 # Issues
  - If you found or have any issues feel free to report it, on my discord via opening a ticket, or here or contact me.
